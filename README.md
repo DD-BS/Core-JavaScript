@@ -1,7 +1,7 @@
 # 📙 Core-JavaScript📙
 
 ## 👩‍👩‍👦‍👦 멤버<br/>
-
+2024.10.23 ~ ing
 <table>
     <tr>
       <td height="140px" align="center"> <a href="https://github.com/lionleeee"><img src="https://avatars.githubusercontent.com/u/51181222?v=4" width="140px" /><br/>Front End<br/>  이정훈</a></td>
